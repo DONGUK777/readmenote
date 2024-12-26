@@ -1,15 +1,14 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=JobScanner%0A취업%20준비의%20스마트%20솔루션&fontSize=40&color=100:ff7f00,100:87ceeb&stroke=ffffff)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=JobScanner%20취업%20준비의%20스마트%20솔루션&fontSize=500&color=100:ff7f00,100:87ceeb&stroke=ffffff)
 
 ---
 
 ## 🫂 Team
-| **이름**     | **GitHub URL**                                | **책임**                                                                 |
-|--------------|-----------------------------------------------|--------------------------------------------------------------------------|
-| **김도현**   | [바로가기](https://github.com/rlaehgus97)     | 애플리케이션 관리 및 유지보수<br>형상 관리 및 배포 문제 해결<br>Docker, Airflow<br>브랜치 전략 수립 |
-| **김동욱**   | [바로가기](https://github.com/DONGUK777)      | 백엔드 개발<br>데이터 전처리<br>기술 사전 및 스택 뽑아오기                  |
-| **이상우**   | [바로가기](https://github.com/GITSangWoo)     | 기술적 문제 해결 및 방향 설정<br>시스템 아키텍처 설계 및 리뷰<br>백엔드 개발<br>OCR(이미지 텍스트 변환) |
-| **이상훈**   | [바로가기](https://github.com/hun0219)        | 팀원들의 애로 사항 논의<br>애자일 프로세스 적용<br>Docker, Airflow<br>크롤링 코드 통합 |
-| **조하영**   | [바로가기](https://github.com/EstherCho-7)    | 프로젝트 일정 및 리소스 관리<br>프로젝트 진행 상황 모니터링<br>프론트엔드 개발<br>ERD 작성 |
+
+| **김도현** | **김동욱** | **이상우** | **이상훈** | **조하영** |
+|------------|------------|------------|------------|------------|
+| [GitHub 바로가기](https://github.com/rlaehgus97) | [GitHub 바로가기](https://github.com/DONGUK777) | [GitHub 바로가기](https://github.com/GITSangWoo) | [GitHub 바로가기](https://github.com/hun0219) | [GitHub 바로가기](https://github.com/EstherCho-7) |
+| - 애플리케이션 관리 및 유지보수<br>- 형상 관리 및 배포 문제 해결<br>- Docker, Airflow<br>- 브랜치 전략 수립 | - 백엔드 개발<br>- 데이터 전처리<br>- 기술 사전 및 스택 뽑아오기 | - 기술적 문제 해결 및 방향 설정<br>- 시스템 아키텍처 설계 및 리뷰<br>- 백엔드 개발<br>- OCR(이미지 텍스트 변환) | - 팀원들의 애로 사항 논의<br>- 애자일 프로세스 적용<br>- Docker, Airflow<br>- 크롤링 코드 통합 | - 프로젝트 일정 및 리소스 관리<br>- 프로젝트 진행 상황 모니터링<br>- 프론트엔드 개발<br>- ERD 작성 |
+
 
 <br/>
 
