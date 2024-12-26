@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=JobScanner&fontSize=40&color=100:ff7f00,100:87ceeb&stroke=ffffff&fontFamily=Comic%20Sans%20MS)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=JobScanner&fontSize=80&color=100:ff7f00,100:87ceeb&stroke=ffffff)
 
 ---
 
