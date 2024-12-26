@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=JobScanner%20취업%20준비의%20스마트%20솔루션&fontSize=500&color=100:ff7f00,100:87ceeb&stroke=ffffff)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=JobScanner%20취업%20준비의%20스마트%20솔루션&fontSize=50&color=100:ff7f00,100:87ceeb&stroke=ffffff)
 
 ---
 
