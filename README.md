@@ -1,5 +1,5 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=JobScanner&fontSize=150&color=100:ff7f00,100:87ceeb&stroke=ffffff)  
-![venom](https://capsule-render.vercel.app/api?type=transparent&height=50&text=취업%20준비의%20스마트%20솔루션&fontSize=100&color=87ceeb)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=100&text=JobScanner&fontSize=150&color=100:ff7f00,100:87ceeb&stroke=ffffff)  
+![venom](https://capsule-render.vercel.app/api?type=transparent&height=50&text=취업%20준비의%20스마트%20솔루션&fontSize=60&color=87ceeb)
 
 
 ---
