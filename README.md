@@ -1,18 +1,44 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=100&text=JobScanner&fontSize=150&color=80:ff7f00,100:87ceeb&stroke=ffffff)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=100:ff7f00,100:87ceeb&height=150&section=header)
+
+![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=JobScanner&fontSize=100&color=100:ff7f00,100:87ceeb&stroke=ffffff)  
 ![venom](https://capsule-render.vercel.app/api?type=transparent&height=50&text=취업%20준비의%20스마트%20솔루션&fontSize=30&color=87ceeb)
 
 
----
+## 🫂 Team
+
+### 팀 이름: Team2Job
+- Team + to + job => 취업을 하기 위해 만난 팀
+- Team2 + JobScanner => 플레이데이터 DE32기 2조의 JobScanner 서비스
+
+### 팀원 소개
 
 ## 🫂 Team
 
 | **김도현** | **김동욱** | **이상우** | **이상훈** | **조하영** |
 |------------|------------|------------|------------|------------|
 | [GitHub 바로가기](https://github.com/rlaehgus97) | [GitHub 바로가기](https://github.com/DONGUK777) | [GitHub 바로가기](https://github.com/GITSangWoo) | [GitHub 바로가기](https://github.com/hun0219) | [GitHub 바로가기](https://github.com/EstherCho-7) |
-| - 애플리케이션 관리 및 유지보수<br>- 형상 관리 및 배포 문제 해결<br>- Docker, Airflow<br>- 브랜치 전략 수립 | - 백엔드 개발<br>- 데이터 전처리<br>- 기술 사전 및 스택 뽑아오기 | - 기술적 문제 해결 및 방향 설정<br>- 시스템 아키텍처 설계 및 리뷰<br>- 백엔드 개발<br>- OCR(이미지 텍스트 변환) | - 팀원들의 애로 사항 논의<br>- 애자일 프로세스 적용<br>- Docker, Airflow<br>- 크롤링 코드 통합 | - 프로젝트 일정 및 리소스 관리<br>- 프로젝트 진행 상황 모니터링<br>- 프론트엔드 개발<br>- ERD 작성 |
+| • 애플리케이션 관리 및 유지보수<br>• 형상 관리 및 배포 문제 해결<br>• Docker, Airflow<br>• 브랜치 전략 수립 | • 백엔드 개발<br>• 데이터 전처리<br>• 기술 사전 및 스택 뽑아오기 | • 기술적 문제 해결 및 방향 설정<br>• 시스템 아키텍처 설계 및 리뷰<br>• 백엔드 개발<br>• OCR(이미지 텍스트 변환) | • 팀원들의 애로 사항 논의<br>• 애자일 프로세스 적용<br>• Docker, Airflow<br>• 크롤링 코드 통합 | • 프로젝트 일정 및 리소스 관리<br>• 프로젝트 진행 상황 모니터링<br>• 프론트엔드 개발<br>• ERD 작성 |
 
 
 <br/>
+
+## 프로젝트 소개
+### 프로젝트 목표
+- 여러 채용 공고 사이트의 정보를 크롤링하여 다양한 인사이트(직군별 핵심 키워드 순위, 기술 정보 제공, 직무 소개, 채용 공고 요약)를 제공하여 SW 개발 입문/취업에 실질적인 도움을 주는 것이 목표입니다.
+### 주요기능
+- **회원가입 및 로그인**
+  - 구글/네이버/카카오 계정으로 회원가입 및 로그인이 가능합니다.
+    
+- **직군별 기술 스택 순위**
+  - 이전 `네이버 실시간 검색어`처럼 현재 모집중인 채용 공고 데이터를 바탕으로 직군별 기술 스택 순위를 확인할 수 있습니다.
+  - 주요업무, 자격요건, 우대사항의 카테고리로 기술 스택 순위를 확인할 수 있습니다.
+ 
+- **기술별 상세 정보 제공**
+  - 기술 스택에 대한 다양한 정보(설명, 공식 문서, 유튜브 동영상 추천, 도서 추천)을 확인할 수 있습니다.
+ 
+- **직무별 채용 공고 요약**
+  - 기존 불필요한 채용 공고 내용에서 핵심적인 내용만을 담은 채용 공고를 제공합니다 
+  
 
 ### 🛠️사용된 기술 스택
 ---
