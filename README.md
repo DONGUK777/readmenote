@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=100:ff7f00,100:87ceeb&height=150&section=header)
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=JobScanner&fontSize=100&color=100:ff7f00,100:87ceeb&stroke=ffffff)  
-![venom](https://capsule-render.vercel.app/api?type=transparent&height=50&text=취업%20준비의%20스마트%20솔루션&fontSize=30&color=87ceeb)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=JobScanner&fontSize=120&color=100:ff7f00,100:87ceeb&stroke=ffffff)  
+![venom](https://capsule-render.vercel.app/api?type=transparent&height=40&text=취업%20준비의%20스마트%20솔루션&fontSize=30&color=87ceeb)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=100:ff7f00,100:87ceeb&height=150&section=footer)
 
