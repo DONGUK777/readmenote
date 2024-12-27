@@ -54,8 +54,8 @@
 ## 👀Demo
 ### 시연 Video
 - **기술 스택 순위 확인**
-  
-https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
+
+![기술 스택 순위 gif](https://github.com/user-attachments/assets/969f745f-f689-44e6-846e-f91481d13873)
 
 - **기술 정보 상세보기**
 
