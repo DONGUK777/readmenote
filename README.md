@@ -46,7 +46,7 @@
 ## 👀Demo
 ### 시연 Video
 ### 배포 URL
-### 팀 Notion
+### 팀 Notion [👆](https://www.notion.so/14225f9eafe9801cb369d2b274b026cb?v=14225f9eafe981fbb896000c164c89ef&pvs=4)
 
 <br/>
 
