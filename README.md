@@ -8,8 +8,8 @@
 ## 🫂 Team
 
 ### 팀 이름: `Team2Job`
-- `Team` + `To` + `Job` ➜ 취업을 하기 위해 만난 팀
-- `Team2` + `JobScanner` ➜ 플레이데이터 DE32기 2조의 JobScanner 서비스
+- `Team` + `To` + `Job` ➜ **취업**을 하기 위해 만난 **팀**
+- `Team2` + `JobScanner` ➜ 플레이데이터 DE32기 **2조**의 **JobScanner** 서비스
 
 ### 팀원 소개 및 역할
 | **김도현** | **김동욱** | **이상우** | **이상훈** | **조하영** |
@@ -22,7 +22,9 @@
 
 ## 📂프로젝트 소개
 ### 🎯프로젝트 목표
-- 여러 채용 공고 사이트의 정보를 크롤링하여 다양한 인사이트(직군별 핵심 키워드 순위, 기술 정보 제공, 직무 소개, 채용 공고 요약)를 제공하여 SW 개발 입문/취업에 실질적인 도움을 주는 것이 목표입니다.
+> 여러 **채용 공고 사이트**의 정보를 **크롤링**하여<br>
+> **다양한 인사이트**(직군별 핵심 키워드 순위, 기술 정보 제공, 직무 소개, 채용 공고 요약)를<br>
+> 제공하여 **SW 개발 입문/취업**에 실질적인 도움을 주는 것이 목표입니다.
 
 ### 🔑주요기능
     
@@ -137,9 +139,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>KEEP</summary>
 <div>
 <figure align="center">
-  <p>1. 업무 분담이 확실하게 이루어졌다.</p>
-  <p>2. 이전에 수업했던 내용들을 종합하여 복습할 수 있었다.</p>
-  <p>3. 최종 프로젝트에서 설계될 구조를 미리 학습할 수 있었다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -148,7 +148,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>PROBLEM</summary>
 <div>
 <figure align="center">
-  <p>아직 kubenetes, prometheus, exporter에 대한 이해가 부족해서 공부하면서 프로젝트를 진행하려니 시간이 다소 소모되었다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -158,7 +158,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>TRY</summary>
 <div>
 <figure align="center">
-  <p>Grafana를 활용하여 Spark 지표를 모니터링 및 시각화 하도록 개선해야겠다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -168,7 +168,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>KEEP</summary>
 <div>
 <figure align="center">
-  <p>목표와 해야할 일을 정해놓고 분업화가 원할하게 된 것</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -177,7 +177,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>PROBELM</summary>
 <div>
 <figure align="center">
-  <p>프로메테우스나 exporter에 대한 이해가 부족해 팀원이 자신이 한 일을 설명해주어도 이해하는데 시간이 걸림</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -186,8 +186,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>TRY</summary>
 <div>
 <figure align="center">
-  <p>컨테이너의 메모리 사용률이나 컨테이너의 네트워크 대역폭을 읽어올 수 있는 방법이 있다고 생각함.</p>
-  <p>단순히 네트워크 대역폭 최대치나 메모리 용량 metric을 상수로 받아오는 것 보다는 컨테이너의 각 리소스 metric을 실제로 읽어오는 방식을 시도하고 싶음</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -197,9 +196,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>KEEP</summary>
 <div>
 <figure align="center">
-  <p>1. 저번 프로젝트 보다 공유도 잘되고 분업도 잘된것 같다.</p>
-  <p>2. 프로젝트를 진행하는 중에 JAM이 걸리지 않아서 프로젝트 완성속도나 프로세스 진행면에서 발전된 형태를 보였다.</p>
-  <p>3. 최종 프로젝트를 대비해서 미리 체험해봐야할 오류를 경험한 듯한 느낌이다 .</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -208,8 +205,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>PROBLEM</summary>
 <div>
 <figure align="center">
-  <p>1. 내가 일에 참여한 시간에 비해서 내 퍼포먼스가 좀 별로였다.</p>
-  <p>2. 아직 새로운 영역의 기술을 사용하거나 기존 사용하던 기술에 조금 더 발전된 테크닉을 적용시키는데 어려움이 있는 것 같다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -218,8 +214,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>TRY</summary>
 <div>
 <figure align="center">
-  <p>1. 사람이 빠져도 진행될 수 있는 팀을 구현하기 위해서 일정을 프로젝트 적용 (기술 + 태스크) 병렬형태로 짜봤으면 좋겠다.</p>
-  <p>업무 진행상황, 어려움을 겪고있는 상황이나 진행이 잘 되지 않는 상황을 ISSUE로 적극적으로 공유해봤으면 좋겠다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -229,7 +224,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>KEEP</summary>
 <div>
 <figure align="center">
-   <p>분업이 잘된 느낌이고 공유가 잘됐다.</p>
+   <p></p>
  </figure>
 </div>
 </details>
@@ -238,8 +233,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>PROBLEM</summary>
 <div>
 <figure align="center">
-  <p>spark 등 툴에 대한 정확한 이해도가 부족해서 트러블 슈팅시간이 좀 걸렸다.</p>
-  <p>전반적으로 학습이 더 필요하다는 느낌을 많이 받았다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -248,7 +242,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>TRY</summary>
 <div>
 <figure align="center">
-  <p>전체적인 아키텍처를 사용하고자 하는 기술을 더해 구상할 수 있는 능력을 많이 길러야겠다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -258,7 +252,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>KEEP</summary>
 <div>
 <figure align="center">
-  <p> 새로 배운 것을 프로젝트에 적용해본다는 점에서 의미 깊었다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -267,7 +261,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>PROBLEM</summary>
 <div>
 <figure align="center">
-  <p> 코드에서의 문제가 없었으나 실행이 되지 않는 이유를 코드에서만 찾는 경향이 있다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
@@ -276,7 +270,7 @@ https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
 <summary>TRY</summary>
 <div>
 <figure align="center">
-  <p> 문법 이슈 외에 다른 환경설정 사항들도 고려해볼 것</p>
+  <p></p>
  </figure>
 </div>
 </details>
