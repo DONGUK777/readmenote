@@ -45,8 +45,8 @@
  
 ## 👀Demo
 ### 시연 Video
+- **기술 스택 순위 확인**
 https://github.com/user-attachments/assets/95e1e6f8-87b6-414f-a11f-5ec607541cce
-
 
 ### 배포 URL [바로가기](http://43.202.114.11/)
 ### 팀 Notion [[바로가기]](https://www.notion.so/14225f9eafe9801cb369d2b274b026cb?v=14225f9eafe981fbb896000c164c89ef&pvs=4)
