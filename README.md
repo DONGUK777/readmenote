@@ -46,7 +46,7 @@
 ## 👀Demo
 ### 시연 Video
 ### 배포 URL
-### 팀 Notion [👆](https://www.notion.so/14225f9eafe9801cb369d2b274b026cb?v=14225f9eafe981fbb896000c164c89ef&pvs=4)
+### 팀 Notion [[바로가기]](https://www.notion.so/14225f9eafe9801cb369d2b274b026cb?v=14225f9eafe981fbb896000c164c89ef&pvs=4)
 
 <br/>
 
@@ -72,6 +72,7 @@
 <br/>
 
 ## ERD
+![image](https://github.com/user-attachments/assets/7aa95292-ca6b-44b4-aff7-7c94f6a05898)
 
 
 ## 목차
@@ -104,8 +105,8 @@
 
 ## ✅요구사항 정의서
 [요구사항 정의서](https://docs.google.com/spreadsheets/d/15s4UewBZCuJ099c2KAiWEULkpJrwZ_zoh3XLLEoeDIQ/edit?usp=sharing  )
-<br/>
 
+<br/>
 
 ## 🏗️시스템 아키텍처
 ---
@@ -113,9 +114,9 @@
 
 <br/>
 
-# 🔄KPT 회고
+## 🔄KPT 회고
 
-## 김동욱
+### 김동욱
 <details>
 <summary>KEEP</summary>
 <div>
@@ -146,7 +147,7 @@
 </div>
 </details>
 
-## 김도현
+### 김도현
 <details>
 <summary>KEEP</summary>
 <div>
@@ -175,7 +176,7 @@
 </div>
 </details>
 
-## 이상우
+### 이상우
 <details>
 <summary>KEEP</summary>
 <div>
@@ -207,7 +208,7 @@
 </div>
 </details>
 
-## 이상훈
+### 이상훈
 <details>
 <summary>KEEP</summary>
 <div>
@@ -236,7 +237,7 @@
 </div>
 </details>
 
-## 조하영
+### 조하영
 <details>
 <summary>KEEP</summary>
 <div>
@@ -268,26 +269,7 @@
 
 ## 🔍최종 검토 및 개선
 
-### 1. **Spark 모니터링 (완료)**
 
-- **Grafana 대시보드 개선**: Spark 성능 지표 추가 및 대시보드 개선
-- **알림 시스템 설정**: 성능 이상 발생 시 알림 받도록 설정
-- **클러스터 상태 모니터링**: 각 노드 상태 실시간 추적
-
----
-
-### 2. **Spark Worker Manual Scale In/Out (완료)**
-
-- **CPU 사용량에 따른 수동 Warker 스케일링 구현**
-- **스케일링 정책 설정**: 임계치 확인 및 수동 스케일 아웃
-
----
-
-### 3. **기타 개선/추가 사항**
-
-- **에러 핸들링 및 로깅 개선**: 장애 시 알림 및 로그 기록
-- **부하 테스트 환경 개선**: 다양한 시나리오 테스트 추가
-- **CI/CD 파이프라인 설정**: 자동 배포 파이프라인 추가
 
 
 
